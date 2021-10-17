@@ -6,15 +6,15 @@
 
 ## Скриншоты
 Скриншот для тестовых данных 1 
-#####3
-#####10 20 30
-#####50 20 30
+##### 3
+##### 10 20 30
+##### 50 20 30
 ![](https://sun9-16.userapi.com/impg/xZHuVrx0NWHcC9uZ0WFqKGHSAlbZuG6N_UtKhg/ZJtU5zOcn2M.jpg?size=1206x234&quality=96&sign=5875f4a45dfb4b1fd3f32d46f077ceea&type=album)
 
 Скриншот для тестовых данных 2
-#####5
-#####10 20 1 30 30
-#####3 3 3 2 3
+##### 5
+##### 10 20 1 30 30
+##### 3 3 3 2 3
 ![](https://sun9-21.userapi.com/impg/XGstJUZladnuxvGaxqEi26HIFJjq_WLcMbqmaw/gdwYS0Mz_lo.jpg?size=1204x250&quality=96&sign=39fcfc06ad38b5ea06e6af3bc625164f&type=album)
 
 ## Описания среды, языка программировния и использования программы.
