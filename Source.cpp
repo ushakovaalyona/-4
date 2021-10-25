@@ -51,7 +51,7 @@ int main()
 	}
 	for (int i = 0; i < N - 1; i++) {
 		for (int j = i + 1; j < N; j++) {
-			if (distanse_index[i] < distanse_index[j]) {
+			if (distanse_index[i] > distanse_index[j]) {
 				int t = distanse_index[i];
 				distanse_index[i] = distanse_index[j];
 				distanse_index[j] = t;
@@ -69,5 +69,4 @@ int main()
 	cout << "\n\n";
 	return 0;
 }
-
 
